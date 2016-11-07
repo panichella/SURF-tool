@@ -64,7 +64,7 @@ One web browser among Google Chrome and Mozilla Firefox (version 44.0.2 is the m
 in your system (only these two browser are supported). 
 
 Such a utility uses Selenium WebDriver API in order to create local scripts for web browser automating.
-While Selenium distribuition provides natively a driver for Mozilla FireFox, this does not happen for Google Chrome.
+While Selenium distribution provides natively a driver for Mozilla FireFox, this does not happen for Google Chrome.
 If you want to use Google Chrome you need to download the appropriate driver from the following link:
 
 https://sites.google.com/a/chromium.org/chromedriver/downloads
