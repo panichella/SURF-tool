@@ -31,6 +31,7 @@ SURF generates xml summaries of user reviews.
 The tool accepts in input xml files having the structure showed
 in the following example:
 
+```xml
 <reviews>
    <review>
    <review>
@@ -51,7 +52,7 @@ in the following example:
    </review>
    ....
 <reviews>
-
+```
 The reviews-downloader.jar utility (provided in the utility folder of SURF package) is an executable
 jar file which automatically downloads reviews from the Google Play store and exports them in the required xml structure.
 The reviews-downloader utility uses the following libraries:
